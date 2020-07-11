@@ -1,6 +1,6 @@
 # university-exam-scheduling
 
-## Course Project : Algorithms(MTH524)
+## Course Project : capstone(CS392)
 
 ### Exam Scheduling using Graph Coloring
 
