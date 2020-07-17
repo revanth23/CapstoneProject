@@ -3,8 +3,8 @@ import json, operator, csv
 
 from test import *
 
-MAX_SCHEDULE_DAYS = 8
-TIME_SLOTS = 5
+MAX_SCHEDULE_DAYS = 5
+TIME_SLOTS = 3
 
 GAMMA = 0.5 #Change to proivde a different coloring scheme
 
