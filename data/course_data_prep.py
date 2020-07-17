@@ -28,5 +28,4 @@ data = json.dumps(courses)
 out = open('data_course.json', 'w')
 out.write(data)
 
-#with open('data_cj.json', 'w') as outfile:
-#    json.dump(data, outfile)
+
